@@ -1,4 +1,4 @@
-package chapsection1
+package chap02.section1
 
 import kotlin.math.PI
 import kotlin.math.abs

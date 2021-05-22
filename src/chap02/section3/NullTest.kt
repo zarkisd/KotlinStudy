@@ -11,7 +11,7 @@ fun main() {
 
     println("str1 : $str1 length : $len")
     println("엘비스  ${str1?.length?:-1}")
-    
+
 
 
 
